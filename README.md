@@ -1,6 +1,4 @@
-Vivek Natarajan
-
-Bio:
+Vivek Natarajan Bio:
 
 I am an AI researcher in the Health AI team at Google working to accelerate biomedical AI’s translation from code to clinic and scale world-class healthcare to everyone.
 
